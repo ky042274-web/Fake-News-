@@ -1,7 +1,6 @@
 streamlit
 numpy
 pandas
-tensorflow
-keras
+tensorflow==2.19.0
 h5py
 scikit-learn
